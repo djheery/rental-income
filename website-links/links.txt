@@ -1,0 +1,19 @@
+Calculator based on: 
+  https://taxscouts.com/calculator/rental-income-tax/
+
+To start with only make the buy-to-let version of the calculator
+  - This means the version wil the "buy to let" radio button selected not the "room in home"
+
+3 - 4 inputs
+  - Monthly rental Income 
+  - Annual Salary https://taxscouts.com/calculator/rental-income-tax/
+  - Other Income (Self-employed work)
+  Extra:
+    - Expenses 
+      - Total amount added up
+        - ((Monthly income * 12) + annual Salary + other income) - expenses;
+        - Ignore intrest box just have one box for expenses
+  
+
+    
+
